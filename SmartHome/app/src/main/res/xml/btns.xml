@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <lamps>
+        <lamp id="bt101">
+            <place>Bed Room</place>
+            <ip>192.168.0.218</ip>
+            <name>Table Lamp</name>
+            <status>on</status>
+        </lamp>
+        <lamp id="bt103">
+            <place>Bed Room</place>
+            <ip>192.168.0.214</ip>
+            <name>Hang Lamp</name>
+            <status>on</status>
+        </lamp>
+        <lamp id="bt103">
+            <place>Bed Room</place>
+            <ip>192.168.0.211</ip>
+            <name>Tisch Lamp</name>
+            <status>off</status>
+        </lamp>
+        <lamp id="bt102">
+            <place>Kitchen</place>
+            <ip>192.168.0.104</ip>
+            <name>Jafar Lamp</name>
+            <status>on</status>
+        </lamp>
+    </lamps>
+</resources>
